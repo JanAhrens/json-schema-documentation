@@ -21,3 +21,5 @@ Example:
   }
 }
 ```
+
+![Example of a generated documentation](example.png)
